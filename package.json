@@ -13,6 +13,7 @@
   "author": "pratheesh",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/firestore": "^6.4.0",
     "ascii-art-table": "^1.0.1",
     "axios": "^0.19.2",
     "base64-img": "^1.0.4",
@@ -24,6 +25,7 @@
     "express": "^4.17.1",
     "figlet": "^1.5.0",
     "file-url": "^3.0.0",
+    "firebase": "^9.12.1",
     "firebase-admin": "^8.11.0",
     "image-downloader": "^4.0.1",
     "mongoose": "^5.9.9",
