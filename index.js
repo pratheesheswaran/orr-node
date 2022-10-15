@@ -73,10 +73,10 @@ if (true) {
         sameTypewriter.tweet();
     });
 
-    cron.schedule("*/1 * * * * *", () => {
+    // cron.schedule("*/1 * * * * *", () => {
         console.log("pintotumblr sgarts");
         pinToTumblr();
-    });
+    // });
 
 
     // // usSlashUi prod
