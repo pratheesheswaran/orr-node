@@ -15,7 +15,7 @@
   "dependencies": {
     "@google-cloud/firestore": "^6.4.0",
     "ascii-art-table": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "base64-img": "^1.0.4",
     "body-parser": "^1.19.0",
     "bufferlist": "^0.1.0",
